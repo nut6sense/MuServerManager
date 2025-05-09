@@ -1,9 +1,9 @@
 @echo off
 set CHANNEL_NAME=Channel Main
-set CHANNEL_PORT=55900
-set TCP_PORT=9000
-set UDP_PORT=9000
+set CHANNEL_PORT=44405
+set TCP_PORT=44405
+set UDP_PORT=44405
 cd ..\mu-server
-title Channel Main - TCP:9000 UDP:9000 PORT:55900
-go run cmd\server\main.go --port=55900
+title Channel Main - TCP:44405 UDP:44405 PORT:44405
+go run cmd\server\main.go --port=44405
 pause

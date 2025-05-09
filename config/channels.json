@@ -2,25 +2,25 @@
   {
     "id": "channel1",
     "name": "Channel 1",
-    "run_cmd": "go run ../mu-server/cmd/server/main.go --port=55901",
-    "port": 55901
+    "run_cmd": "go run ../mu-server/cmd/server/main.go --port=55900",
+    "port": 55900
   },
   {
     "id": "channel2",
     "name": "Channel 2",
-    "run_cmd": "go run ../mu-server/cmd/server/main.go --port=55902",
-    "port": 55902
+    "run_cmd": "go run ../mu-server/cmd/server/main.go --port=55901",
+    "port": 55901
   },
   {
     "id": "channel3",
     "name": "Channel 3",
-    "run_cmd": "go run ../mu-server/cmd/server/main.go --port=55903",
-    "port": 55903
+    "run_cmd": "go run ../mu-server/cmd/server/main.go --port=55902",
+    "port": 55902
   },
   {
     "id": "channel4",
     "name": "Channel 4",
-    "run_cmd": "go run ../mu-server/cmd/server/main.go --port=55904",
-    "port": 55904
+    "run_cmd": "go run ../mu-server/cmd/server/main.go --port=55903",
+    "port": 55903
   }
 ]
